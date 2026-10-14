@@ -1,0 +1,244 @@
+data,empresa_id,empresa,pilar,acao,valor
+2026-07-01,EMP-005,Moda Agreste,Social,Doação de alimentos,2793.29
+2026-07-01,EMP-005,Moda Agreste,Ambiental,Reuso de água,17952.60
+2026-07-01,EMP-004,Recife Tech Soluções,Ambiental,Coleta seletiva,16676.60
+2026-07-01,EMP-003,Banco Capibaribe,Governança,Política de privacidade LGPD,2426.23
+2026-07-02,EMP-009,Hotel Mar Azul,Social,Programa de estágio,14580.64
+2026-07-04,EMP-002,Construtora Horizonte,Governança,Treinamento de compliance,1764.90
+2026-07-04,EMP-003,Banco Capibaribe,Social,Doação de alimentos,2067.43
+2026-07-04,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,8200.80
+2026-07-04,EMP-008,Farmácia Boa Saúde,Ambiental,Coleta seletiva,17594.83
+2026-07-07,EMP-009,Hotel Mar Azul,Social,Programa de estágio,1818.19
+2026-07-07,EMP-007,Transportes Litoral,Social,Programa de estágio,13025.63
+2026-07-07,EMP-008,Farmácia Boa Saúde,Social,Programa de estágio,13627.38
+2026-07-07,EMP-003,Banco Capibaribe,Social,Bolsas de estudo,1159.98
+2026-07-07,EMP-008,Farmácia Boa Saúde,Social,Doação de alimentos,3173.27
+2026-07-07,EMP-002,Construtora Horizonte,Governança,Treinamento de compliance,12959.47
+2026-07-08,EMP-004,Recife Tech Soluções,Governança,Treinamento de compliance,7161.37
+2026-07-08,EMP-001,Verde Vale Alimentos,Ambiental,Painéis solares,17929.75
+2026-07-08,EMP-003,Banco Capibaribe,Ambiental,Reuso de água,7980.33
+2026-07-08,EMP-009,Hotel Mar Azul,Ambiental,Coleta seletiva,18901.01
+2026-07-09,EMP-006,Energia Sertão Solar,Governança,Auditoria externa,4653.48
+2026-07-09,EMP-001,Verde Vale Alimentos,Social,Capacitação de mulheres,6316.89
+2026-07-09,EMP-002,Construtora Horizonte,Governança,Relatório de sustentabilidade,10233.82
+2026-07-09,EMP-008,Farmácia Boa Saúde,Ambiental,Reflorestamento,6799.32
+2026-07-10,EMP-002,Construtora Horizonte,Ambiental,Reuso de água,21603.18
+2026-07-10,EMP-003,Banco Capibaribe,Social,Voluntariado,7208.11
+2026-07-10,EMP-008,Farmácia Boa Saúde,Social,Programa de estágio,13970.77
+2026-07-11,EMP-003,Banco Capibaribe,Governança,Treinamento de compliance,19033.39
+2026-07-11,EMP-010,Cooperativa Frutos do Vale,Governança,Canal de denúncias,8552.18
+2026-07-12,EMP-010,Cooperativa Frutos do Vale,Social,Capacitação de mulheres,960.85
+2026-07-12,EMP-007,Transportes Litoral,Governança,Canal de denúncias,1697.25
+2026-07-13,EMP-008,Farmácia Boa Saúde,Governança,Auditoria externa,19970.63
+2026-07-13,EMP-010,Cooperativa Frutos do Vale,Governança,Treinamento de compliance,2144.38
+2026-07-13,EMP-004,Recife Tech Soluções,Governança,Auditoria externa,2717.21
+2026-07-14,EMP-009,Hotel Mar Azul,Ambiental,Reflorestamento,13085.90
+2026-07-14,EMP-001,Verde Vale Alimentos,Social,Capacitação de mulheres,11059.10
+2026-07-14,EMP-003,Banco Capibaribe,Social,Bolsas de estudo,2173.72
+2026-07-14,EMP-001,Verde Vale Alimentos,Social,Voluntariado,12423.80
+2026-07-15,EMP-009,Hotel Mar Azul,Social,Doação de alimentos,14118.94
+2026-07-15,EMP-005,Moda Agreste,Governança,Política de privacidade LGPD,17537.54
+2026-07-16,EMP-010,Cooperativa Frutos do Vale,Social,Doação de alimentos,10119.12
+2026-07-16,EMP-008,Farmácia Boa Saúde,Ambiental,Redução de plástico,14289.22
+2026-07-16,EMP-004,Recife Tech Soluções,Ambiental,Painéis solares,11967.04
+2026-07-17,EMP-009,Hotel Mar Azul,Ambiental,Reflorestamento,13042.41
+2026-07-17,EMP-003,Banco Capibaribe,Social,Bolsas de estudo,14489.95
+2026-07-17,EMP-001,Verde Vale Alimentos,Governança,Auditoria externa,7932.36
+2026-07-18,EMP-004,Recife Tech Soluções,Ambiental,Redução de plástico,13778.12
+2026-07-19,EMP-009,Hotel Mar Azul,Social,Voluntariado,722.54
+2026-07-19,EMP-004,Recife Tech Soluções,Social,Capacitação de mulheres,13736.02
+2026-07-21,EMP-002,Construtora Horizonte,Ambiental,Redução de plástico,9742.56
+2026-07-21,EMP-004,Recife Tech Soluções,Social,Capacitação de mulheres,10076.21
+2026-07-21,EMP-008,Farmácia Boa Saúde,Social,Programa de estágio,10325.36
+2026-07-22,EMP-004,Recife Tech Soluções,Social,Voluntariado,13585.42
+2026-07-22,EMP-004,Recife Tech Soluções,Governança,Auditoria externa,9990.54
+2026-07-22,EMP-005,Moda Agreste,Ambiental,Reflorestamento,2528.12
+2026-07-23,EMP-003,Banco Capibaribe,Ambiental,Redução de plástico,21723.46
+2026-07-23,EMP-010,Cooperativa Frutos do Vale,Ambiental,Redução de plástico,19267.24
+2026-07-23,EMP-005,Moda Agreste,Social,Capacitação de mulheres,11338.47
+2026-07-20,EMP-003,Banco Capibaribe,Financeiro,Linha com pilar errado,1200.00
+2026-07-24,EMP-001,Verde Vale Alimentos,Governança,Auditoria externa,2522.12
+2026-07-25,EMP-009,Hotel Mar Azul,Ambiental,Coleta seletiva,13302.38
+2026-07-25,EMP-010,Cooperativa Frutos do Vale,Social,Bolsas de estudo,3675.57
+2026-07-26,EMP-005,Moda Agreste,Social,Voluntariado,12756.91
+2026-07-27,EMP-009,Hotel Mar Azul,Social,Doação de alimentos,14053.24
+2026-07-27,EMP-003,Banco Capibaribe,Social,Doação de alimentos,4585.47
+2026-07-28,EMP-004,Recife Tech Soluções,Social,Bolsas de estudo,10200.18
+2026-07-28,EMP-001,Verde Vale Alimentos,Social,Voluntariado,5997.01
+2026-07-28,EMP-008,Farmácia Boa Saúde,Governança,Política de privacidade LGPD,3173.40
+2026-07-28,EMP-009,Hotel Mar Azul,Governança,Política de privacidade LGPD,4517.85
+2026-07-29,EMP-007,Transportes Litoral,Governança,Treinamento de compliance,8588.61
+2026-07-29,EMP-007,Transportes Litoral,Ambiental,Painéis solares,21577.96
+2026-07-29,EMP-002,Construtora Horizonte,Ambiental,Painéis solares,17081.66
+2026-07-29,EMP-004,Recife Tech Soluções,Social,Capacitação de mulheres,2164.26
+2026-07-29,EMP-002,Construtora Horizonte,Ambiental,Redução de plástico,19050.47
+2026-07-30,EMP-004,Recife Tech Soluções,Social,Programa de estágio,14785.71
+2026-07-30,EMP-008,Farmácia Boa Saúde,Social,Capacitação de mulheres,4925.27
+2026-07-31,EMP-010,Cooperativa Frutos do Vale,Ambiental,Redução de plástico,17140.14
+2026-07-31,EMP-004,Recife Tech Soluções,Ambiental,Painéis solares,15836.32
+2026-07-31,EMP-001,Verde Vale Alimentos,Governança,Treinamento de compliance,12568.56
+2026-07-31,EMP-009,Hotel Mar Azul,Ambiental,Reflorestamento,15742.52
+2026-08-01,EMP-002,Construtora Horizonte,Ambiental,Painéis solares,18745.52
+2026-08-01,EMP-010,Cooperativa Frutos do Vale,Governança,Treinamento de compliance,4251.63
+2026-08-01,EMP-001,Verde Vale Alimentos,Social,Programa de estágio,3546.11
+2026-08-01,EMP-010,Cooperativa Frutos do Vale,Social,Programa de estágio,5173.42
+2026-08-01,EMP-007,Transportes Litoral,Social,Voluntariado,14713.55
+2026-08-02,EMP-008,Farmácia Boa Saúde,Governança,Auditoria externa,5825.57
+2026-08-02,EMP-009,Hotel Mar Azul,Social,Voluntariado,12541.85
+2026-08-03,EMP-007,Transportes Litoral,Governança,Treinamento de compliance,9718.19
+2026-08-03,EMP-004,Recife Tech Soluções,Governança,Relatório de sustentabilidade,11665.99
+2026-08-03,EMP-004,Recife Tech Soluções,Governança,Relatório de sustentabilidade,13050.52
+2026-08-03,EMP-003,Banco Capibaribe,Governança,Auditoria externa,19288.15
+2026-08-03,EMP-002,Construtora Horizonte,Governança,Relatório de sustentabilidade,5435.05
+2026-08-03,EMP-003,Banco Capibaribe,Ambiental,Reflorestamento,12161.67
+2026-08-04,EMP-006,Energia Sertão Solar,Social,Programa de estágio,3537.85
+2026-08-05,EMP-005,Moda Agreste,Ambiental,Reuso de água,21124.68
+2026-08-05,EMP-009,Hotel Mar Azul,Governança,Treinamento de compliance,9402.36
+2026-08-06,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,16660.57
+2026-08-06,EMP-009,Hotel Mar Azul,Social,Doação de alimentos,12397.97
+2026-08-06,EMP-010,Cooperativa Frutos do Vale,Governança,Treinamento de compliance,10437.82
+2026-08-07,EMP-005,Moda Agreste,Ambiental,Painéis solares,20949.61
+2026-08-07,EMP-008,Farmácia Boa Saúde,Governança,Auditoria externa,12282.41
+2026-08-07,EMP-010,Cooperativa Frutos do Vale,Social,Programa de estágio,14894.03
+2026-08-08,EMP-001,Verde Vale Alimentos,Governança,Auditoria externa,16524.98
+2026-08-08,EMP-008,Farmácia Boa Saúde,Ambiental,Redução de plástico,23614.35
+2026-08-08,EMP-008,Farmácia Boa Saúde,Social,Voluntariado,14820.95
+2026-08-09,EMP-003,Banco Capibaribe,Social,Doação de alimentos,2347.96
+2026-08-09,EMP-006,Energia Sertão Solar,Governança,Canal de denúncias,9621.16
+2026-08-09,EMP-002,Construtora Horizonte,Governança,Política de privacidade LGPD,13280.47
+2026-08-10,EMP-002,Construtora Horizonte,Governança,Política de privacidade LGPD,9256.71
+2026-08-10,EMP-005,Moda Agreste,Ambiental,Reuso de água,7375.51
+2026-08-10,EMP-004,Recife Tech Soluções,Ambiental,Coleta seletiva,18255.08
+2026-08-11,EMP-009,Hotel Mar Azul,Social,Voluntariado,10169.95
+2026-08-11,EMP-010,Cooperativa Frutos do Vale,Ambiental,Reuso de água,22324.03
+2026-08-11,EMP-008,Farmácia Boa Saúde,Social,Programa de estágio,6421.05
+2026-08-11,EMP-009,Hotel Mar Azul,Social,Capacitação de mulheres,7102.50
+2026-08-12,EMP-007,Transportes Litoral,Social,Capacitação de mulheres,1139.26
+2026-08-12,EMP-001,Verde Vale Alimentos,Ambiental,Redução de plástico,18624.86
+2026-08-12,EMP-001,Verde Vale Alimentos,Governança,Canal de denúncias,4669.47
+2026-08-12,EMP-004,Recife Tech Soluções,Ambiental,Reuso de água,10839.80
+2026-08-12,EMP-008,Farmácia Boa Saúde,Governança,Relatório de sustentabilidade,10202.49
+2026-08-13,EMP-001,Verde Vale Alimentos,Ambiental,Reflorestamento,17694.97
+2026-08-13,EMP-003,Banco Capibaribe,Ambiental,Coleta seletiva,23964.56
+2026-08-13,EMP-009,Hotel Mar Azul,Social,Programa de estágio,11644.68
+2026-08-14,EMP-002,Construtora Horizonte,Social,Bolsas de estudo,1902.39
+2026-08-14,EMP-009,Hotel Mar Azul,Ambiental,Painéis solares,24997.77
+2026-08-14,EMP-002,Construtora Horizonte,Governança,Relatório de sustentabilidade,15870.07
+2026-08-15,EMP-002,Construtora Horizonte,Ambiental,Redução de plástico,16747.38
+2026-08-15,EMP-006,Energia Sertão Solar,Ambiental,Reflorestamento,12598.71
+2026-08-16,EMP-007,Transportes Litoral,Social,Capacitação de mulheres,7074.45
+2026-08-16,EMP-008,Farmácia Boa Saúde,Ambiental,Reflorestamento,3507.20
+2026-08-16,EMP-003,Banco Capibaribe,Governança,Relatório de sustentabilidade,17652.75
+2026-08-18,,Empresa sem ID,Social,Linha sem empresa_id,300.00
+2026-08-17,EMP-009,Hotel Mar Azul,Governança,Treinamento de compliance,4779.31
+2026-08-17,EMP-006,Energia Sertão Solar,Ambiental,Redução de plástico,7899.50
+2026-08-18,EMP-006,Energia Sertão Solar,Social,Doação de alimentos,11537.83
+2026-08-18,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,18252.50
+2026-08-18,EMP-010,Cooperativa Frutos do Vale,Ambiental,Redução de plástico,19571.78
+2026-08-18,EMP-006,Energia Sertão Solar,Governança,Política de privacidade LGPD,9986.55
+2026-08-18,EMP-003,Banco Capibaribe,Ambiental,Reuso de água,2711.03
+2026-08-19,EMP-002,Construtora Horizonte,Ambiental,Painéis solares,4450.10
+2026-08-21,EMP-003,Banco Capibaribe,Governança,Relatório de sustentabilidade,11813.00
+2026-08-21,EMP-008,Farmácia Boa Saúde,Ambiental,Redução de plástico,20695.20
+2026-08-21,EMP-005,Moda Agreste,Social,Bolsas de estudo,2180.86
+2026-08-22,EMP-008,Farmácia Boa Saúde,Ambiental,Painéis solares,19787.79
+2026-08-22,EMP-006,Energia Sertão Solar,Governança,Relatório de sustentabilidade,17798.56
+2026-08-22,EMP-005,Moda Agreste,Governança,Auditoria externa,1259.81
+2026-08-22,EMP-004,Recife Tech Soluções,Governança,Auditoria externa,8276.45
+2026-08-23,EMP-005,Moda Agreste,Governança,Política de privacidade LGPD,3418.47
+2026-08-23,EMP-008,Farmácia Boa Saúde,Social,Voluntariado,1402.85
+2026-08-23,EMP-003,Banco Capibaribe,Ambiental,Reflorestamento,7485.19
+2026-08-24,EMP-005,Moda Agreste,Governança,Treinamento de compliance,17576.23
+2026-08-24,EMP-008,Farmácia Boa Saúde,Social,Doação de alimentos,12972.42
+2026-08-25,EMP-001,Verde Vale Alimentos,Social,Bolsas de estudo,4660.25
+2026-08-25,EMP-004,Recife Tech Soluções,Social,Voluntariado,3681.61
+2026-08-26,EMP-007,Transportes Litoral,Governança,Relatório de sustentabilidade,13347.68
+2026-08-26,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,7122.74
+2026-08-26,EMP-008,Farmácia Boa Saúde,Governança,Auditoria externa,5545.67
+2026-08-26,EMP-005,Moda Agreste,Governança,Auditoria externa,11259.65
+2026-08-26,EMP-010,Cooperativa Frutos do Vale,Social,Programa de estágio,13110.65
+2026-08-27,EMP-008,Farmácia Boa Saúde,Governança,Auditoria externa,14525.01
+2026-08-28,EMP-001,Verde Vale Alimentos,Social,Doação de alimentos,4345.44
+2026-08-28,EMP-006,Energia Sertão Solar,Governança,Treinamento de compliance,17939.93
+2026-08-29,EMP-002,Construtora Horizonte,Governança,Treinamento de compliance,9143.64
+2026-08-29,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,15718.19
+2026-08-29,EMP-005,Moda Agreste,Social,Bolsas de estudo,4036.02
+2026-08-29,EMP-001,Verde Vale Alimentos,Governança,Política de privacidade LGPD,17517.98
+2026-08-30,EMP-003,Banco Capibaribe,Ambiental,Reuso de água,1918.37
+2026-08-30,EMP-009,Hotel Mar Azul,Social,Voluntariado,13509.52
+2026-08-30,EMP-007,Transportes Litoral,Social,Programa de estágio,12606.21
+2026-08-30,EMP-005,Moda Agreste,Governança,Relatório de sustentabilidade,12049.56
+2026-08-30,EMP-002,Construtora Horizonte,Ambiental,Redução de plástico,14692.35
+2026-09-01,EMP-002,Construtora Horizonte,Ambiental,Redução de plástico,4824.73
+2026-09-01,EMP-010,Cooperativa Frutos do Vale,Social,Programa de estágio,9704.38
+2026-09-01,EMP-005,Moda Agreste,Social,Programa de estágio,13272.28
+2026-09-01,EMP-010,Cooperativa Frutos do Vale,Governança,Treinamento de compliance,19979.14
+2026-09-02,EMP-004,Recife Tech Soluções,Governança,Política de privacidade LGPD,14230.73
+2026-09-02,EMP-003,Banco Capibaribe,Social,Doação de alimentos,6468.85
+2026-09-03,EMP-006,Energia Sertão Solar,Social,Voluntariado,9383.46
+2026-09-03,EMP-007,Transportes Litoral,Governança,Canal de denúncias,8040.85
+2026-09-04,EMP-002,Construtora Horizonte,Social,Voluntariado,5591.62
+2026-09-06,EMP-010,Cooperativa Frutos do Vale,Social,Capacitação de mulheres,7791.33
+2026-09-06,EMP-005,Moda Agreste,Governança,Relatório de sustentabilidade,12202.15
+2026-09-07,EMP-005,Moda Agreste,Ambiental,Coleta seletiva,18459.51
+2026-09-08,EMP-003,Banco Capibaribe,Governança,Auditoria externa,2947.41
+2026-09-08,EMP-009,Hotel Mar Azul,Ambiental,Coleta seletiva,2024.24
+2026-09-08,EMP-007,Transportes Litoral,Governança,Relatório de sustentabilidade,15202.80
+2026-09-09,EMP-003,Banco Capibaribe,Ambiental,Painéis solares,16765.97
+2026-09-09,EMP-005,Moda Agreste,Ambiental,Redução de plástico,18737.79
+2026-09-09,EMP-009,Hotel Mar Azul,Social,Doação de alimentos,6669.81
+2026-09-09,EMP-008,Farmácia Boa Saúde,Ambiental,Painéis solares,5726.11
+2026-09-10,EMP-004,Recife Tech Soluções,Governança,Treinamento de compliance,12438.36
+2026-09-10,EMP-007,Transportes Litoral,Governança,Política de privacidade LGPD,19189.04
+2026-09-10,EMP-003,Banco Capibaribe,Social,Bolsas de estudo,10179.88
+2026-09-10,EMP-004,Recife Tech Soluções,Governança,Treinamento de compliance,8722.13
+2026-09-11,EMP-004,Recife Tech Soluções,Ambiental,Coleta seletiva,6629.09
+2026-09-11,EMP-003,Banco Capibaribe,Ambiental,Painéis solares,13654.22
+2026-09-12,EMP-003,Banco Capibaribe,Governança,Relatório de sustentabilidade,18774.77
+2026-09-12,EMP-010,Cooperativa Frutos do Vale,Governança,Treinamento de compliance,3197.27
+2026-09-12,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,1371.11
+2026-09-12,EMP-008,Farmácia Boa Saúde,Ambiental,Reflorestamento,6540.38
+2026-09-13,EMP-010,Cooperativa Frutos do Vale,Ambiental,Reuso de água,10945.24
+2026-09-13,EMP-009,Hotel Mar Azul,Ambiental,Reuso de água,20997.20
+2026-09-15,EMP-006,Energia Sertão Solar,Ambiental,Linha com valor inválido,mil reais
+2026-09-14,EMP-009,Hotel Mar Azul,Social,Doação de alimentos,3696.39
+2026-09-14,EMP-001,Verde Vale Alimentos,Governança,Treinamento de compliance,11524.51
+2026-09-15,EMP-010,Cooperativa Frutos do Vale,Ambiental,Redução de plástico,10111.37
+2026-09-15,EMP-009,Hotel Mar Azul,Governança,Canal de denúncias,18451.38
+2026-09-15,EMP-002,Construtora Horizonte,Governança,Auditoria externa,5678.09
+2026-09-15,EMP-009,Hotel Mar Azul,Ambiental,Reuso de água,10082.78
+2026-09-16,EMP-005,Moda Agreste,Social,Programa de estágio,2932.94
+2026-09-16,EMP-002,Construtora Horizonte,Governança,Relatório de sustentabilidade,15524.43
+2026-09-18,EMP-005,Moda Agreste,Governança,Canal de denúncias,13613.22
+2026-09-18,EMP-003,Banco Capibaribe,Social,Bolsas de estudo,13833.35
+2026-09-18,EMP-001,Verde Vale Alimentos,Ambiental,Redução de plástico,13346.23
+2026-09-19,EMP-007,Transportes Litoral,Ambiental,Reuso de água,14159.38
+2026-09-19,EMP-002,Construtora Horizonte,Social,Bolsas de estudo,6509.39
+2026-09-19,EMP-004,Recife Tech Soluções,Ambiental,Painéis solares,15128.77
+2026-09-19,EMP-009,Hotel Mar Azul,Social,Voluntariado,14335.02
+2026-09-20,EMP-008,Farmácia Boa Saúde,Social,Bolsas de estudo,4414.24
+2026-09-20,EMP-005,Moda Agreste,Governança,Política de privacidade LGPD,18937.70
+2026-09-22,EMP-010,Cooperativa Frutos do Vale,Governança,Política de privacidade LGPD,6978.88
+2026-09-22,EMP-009,Hotel Mar Azul,Governança,Relatório de sustentabilidade,6747.83
+2026-09-22,EMP-007,Transportes Litoral,Ambiental,Reflorestamento,18557.85
+2026-09-23,EMP-001,Verde Vale Alimentos,Social,Programa de estágio,9082.45
+2026-09-23,EMP-005,Moda Agreste,Governança,Treinamento de compliance,15355.97
+2026-09-24,EMP-004,Recife Tech Soluções,Social,Doação de alimentos,6238.89
+2026-09-24,EMP-009,Hotel Mar Azul,Governança,Treinamento de compliance,14669.17
+2026-09-24,EMP-006,Energia Sertão Solar,Social,Doação de alimentos,1514.62
+2026-09-25,EMP-001,Verde Vale Alimentos,Social,Voluntariado,5373.88
+2026-09-25,EMP-005,Moda Agreste,Ambiental,Reuso de água,3010.11
+2026-09-25,EMP-010,Cooperativa Frutos do Vale,Ambiental,Reflorestamento,24989.65
+2026-09-26,EMP-003,Banco Capibaribe,Governança,Política de privacidade LGPD,4039.66
+2026-09-26,EMP-002,Construtora Horizonte,Governança,Relatório de sustentabilidade,15677.14
+2026-09-26,EMP-007,Transportes Litoral,Social,Programa de estágio,617.42
+2026-09-27,EMP-009,Hotel Mar Azul,Ambiental,Painéis solares,3507.35
+2026-09-27,EMP-002,Construtora Horizonte,Social,Capacitação de mulheres,3713.15
+2026-09-28,EMP-004,Recife Tech Soluções,Social,Programa de estágio,2808.37
+2026-09-28,EMP-007,Transportes Litoral,Ambiental,Reuso de água,5056.46
+2026-09-28,EMP-006,Energia Sertão Solar,Social,Doação de alimentos,13264.64
+2026-09-28,EMP-004,Recife Tech Soluções,Social,Voluntariado,10750.86
+2026-09-28,EMP-002,Construtora Horizonte,Social,Voluntariado,10485.83
+2026-09-29,EMP-006,Energia Sertão Solar,Ambiental,Reuso de água,8114.88
+2026-09-29,EMP-008,Farmácia Boa Saúde,Governança,Canal de denúncias,6545.37
+2026-09-30,EMP-009,Hotel Mar Azul,Governança,Canal de denúncias,14107.49

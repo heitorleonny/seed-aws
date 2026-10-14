@@ -1,0 +1,82 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Pratica Seed a Bit - envie uma planilha CSV para o S3 e a Lambda
+  soma os investimentos de cada empresa, em lotes, no DynamoDB.
+
+Resources:
+  # Onde a planilha é enviada. Privado e criptografado.
+  PlanilhasBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      # nome fixo (com o ID da conta) para a policy da Lambda não criar dependência circular
+      BucketName: !Sub "seed-pratica-planilhas-${AWS::AccountId}"
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+
+  # Um item por empresa, com os totais acumulados.
+  TotaisTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST   # paga por leitura/escrita, sem custo parado
+      AttributeDefinitions:
+        - AttributeName: empresa_id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: empresa_id
+          KeyType: HASH
+
+  # Disparada quando um .csv chega em entrada/
+  ProcessarPlanilhaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: app.handler
+      Runtime: python3.12
+      Architectures: [arm64]
+      MemorySize: 256
+      Timeout: 60
+      Environment:
+        Variables:
+          TABELA: !Ref TotaisTable
+          TAMANHO_LOTE: "50"
+      Policies:
+        - S3ReadPolicy:
+            BucketName: !Sub "seed-pratica-planilhas-${AWS::AccountId}"
+        - DynamoDBCrudPolicy:
+            TableName: !Ref TotaisTable
+      Events:
+        NovaPlanilha:
+          Type: S3
+          Properties:
+            Bucket: !Ref PlanilhasBucket
+            Events: s3:ObjectCreated:*
+            Filter:
+              S3Key:
+                Rules:
+                  - Name: prefix
+                    Value: entrada/
+                  - Name: suffix
+                    Value: .csv
+
+  # Logs com prazo: 7 dias (o padrão é guardar para sempre)
+  ProcessarPlanilhaLogs:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub /aws/lambda/${ProcessarPlanilhaFunction}
+      RetentionInDays: 7
+
+Outputs:
+  Bucket:
+    Description: Bucket para enviar a planilha (pasta entrada/)
+    Value: !Ref PlanilhasBucket
+  Tabela:
+    Description: Tabela DynamoDB com os totais por empresa
+    Value: !Ref TotaisTable
